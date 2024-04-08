@@ -1,11 +1,15 @@
-nav {
+.navigation {
   display: flex;
   justify-content: center;
   align-items: center;
   background-color: #2b2b2b;
   height: 70px;
 }
-nav a {
+.link {
+  color: white;
+  text-decoration: none;
+}
+.link1 {
   color: white;
   text-decoration: none;
 }
